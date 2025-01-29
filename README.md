@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi Rasen here 👋
+![[RasenLayout](https://rasen-portfolio.vercel.app/)](https://github.com/user-attachments/assets/8a668642-24d2-478f-8bc8-54adf0851ab8)
 
-<!--
-**RasenBunkai/RasenBunkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import SoftwareDeveloper from 'Rasen';
+class Bio extends SoftwareDeveloper {
+  name     = 'Emiliano Salgado Martínez';
+  pronouns = 'He' | 'Him';
+  title    = 'Sistems Engineer';
+  company  = 'PucoLabs';
+  location = 'Cancún, MX';
+  askMeAbout = ['web dev', 'tech', 'games'];
+}
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP','C++', 'NodeJS'];
+  frameworks = ['React', 'Astro', 'Laravel', 'Bootstrap', 'Tailwind CSS'];
+  databases  = ['MySQL', 'SQLite', 'Supabase'];
+  deployment = ['Vercel','Netlify'];
+}
+```
