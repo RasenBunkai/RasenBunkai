@@ -11,14 +11,13 @@
 import SoftwareDeveloper from 'Rasen';
 class Bio extends SoftwareDeveloper {
   name     = 'Emiliano Salgado Martínez';
-  pronouns = 'He' | 'Him';
   title    = 'Systems Engineer';
   company  = 'PucoLabs';
   location = 'Cancún, MX';
-  askMeAbout = ['web dev', 'tech', 'games'];
+  askMeAbout = ['web dev', 'tech', 'games','Music'];
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'C++', 'NodeJS'];
+  languages  = ['JavaScript', 'PHP', 'C++', 'NodeJS','TypeScript'];
   frameworks = ['React', 'Astro', 'Laravel', 'Bootstrap', 'Tailwind CSS'];
   databases  = ['MySQL', 'SQLite', 'Supabase'];
   deployment = ['Vercel', 'Netlify'];
