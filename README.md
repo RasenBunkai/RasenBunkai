@@ -19,7 +19,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'C++', 'NodeJS','TypeScript'];
   frameworks = ['React', 'Astro', 'Laravel', 'Bootstrap', 'Tailwind CSS'];
-  databases  = ['MySQL', 'SQLite', 'Supabase'];
+  databases  = ['MySQL', 'SQLite', 'Supabase','MongoDB'];
   deployment = ['Vercel', 'Netlify'];
 }
 ```
