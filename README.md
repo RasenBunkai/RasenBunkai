@@ -1,7 +1,5 @@
  <h1 align="center">Hey there, I'm <b>Rasen</b>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
-
 ### 👨‍💻 Who am I?
 ```js
 import SoftwareDeveloper from 'Rasen';
