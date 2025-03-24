@@ -1,9 +1,5 @@
  <h1 align="center">Hey there, I'm <b>Rasen</b>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f62ed993-4d80-4895-b524-5b08a55bb710" alt="Rasen Branding" width="600">
-</p>
-
 ---
 
 ### 👨‍💻 Who am I?
