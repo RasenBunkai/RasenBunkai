@@ -8,7 +8,8 @@ class Bio extends SoftwareDeveloper {
   title    = 'Systems Engineer';
   company  = 'PucoLabs';
   location = 'Cancún, MX';
-  askMeAbout = ['web dev', 'tech', 'games','Music'];
+  interests   = ['Web Development', 'Technology', 'Games', 'Music'];
+  focus       = 'Frontend Developer focused on modern web apps';
 }
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'C++', 'NodeJS','TypeScript'];
